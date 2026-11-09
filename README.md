@@ -1,23 +1,51 @@
-#             🛡️ ScamShield AI
-###     Think Before You Click. Detect Before You Trust.
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SCAMSHIELD-AI-0B1724?style=for-the-badge&logo=shield&logoColor=42E6A4" />
-  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-React-111111?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Explainable%20Risk%20Analysis-42E6A4?style=for-the-badge" />
+# 🛡️ ScamShield AI
+
+### Think Before You Click. Detect Before You Trust.
+
+**An explainable scam-risk analysis platform for suspicious messages, URLs, and email content.**
+
+<br/>
+
+<!-- Primary technology badges -->
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-<p align="center">
-  <strong>An explainable scam-risk analysis platform for suspicious messages, URLs, and email content.</strong>
+<p>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<p align="center">
-  <a href="#-overview">Overview</a> · <a href="#-features">Features</a> ·
-  <a href="#-architecture">Architecture</a> · <a href="#-quick-start">Quick Start</a> ·
-  <a href="#-api-reference">API</a> · <a href="#-security">Security</a>
+<br/>
+
+<p>
+  <a href="#-overview">Overview</a>
+  &nbsp;·&nbsp;
+  <a href="#-features">Features</a>
+  &nbsp;·&nbsp;
+  <a href="#-architecture">Architecture</a>
+  &nbsp;·&nbsp;
+  <a href="#-quick-start">Quick Start</a>
+  &nbsp;·&nbsp;
+  <a href="#-api-reference">API</a>
+  &nbsp;·&nbsp;
+  <a href="#-security-and-privacy">Security</a>
 </p>
+
+</div>
 
 > [!IMPORTANT]
 > ScamShield AI is a decision-support and awareness tool. It does not guarantee that a message, sender, website, or attachment is safe. A low-risk result does not prove legitimacy. Never share passwords, OTPs, recovery codes, or payment details with an untrusted party.
