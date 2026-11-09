@@ -1,0 +1,3 @@
+"use client";
+import {useEffect,useState} from "react";import {useParams} from "next/navigation";import Shell from "@/components/Shell";import ScanResult,{Result} from "@/components/ScanResult";import {api} from "@/lib/api";
+export default function Detail(){const p=useParams<{id:string}>();const [r,setR]=useState<Result|null>(null);const [err,setErr]=useState("");useEffect(()=>{api<Result>(`/scans/${p.id}`).then(setR).catch(e=>setErr(e.message));},[p.id]);return <Shell><h1 className="text-3xl font-bold">Scan detail</h1>{err&&<p className="text-rose-400 mt-5">{err}</p>}{r&&<><pre className="card p-5 mt-5 text-sm whitespace-pre-wrap break-words">{(r as any).input_text}</pre><ScanResult result={r}/></>}</Shell>}
