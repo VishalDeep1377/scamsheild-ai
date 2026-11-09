@@ -1,5 +1,5 @@
-# 🛡️ ScamShield AI
-### Think Before You Click. Detect Before You Trust.
+#             🛡️ ScamShield AI
+###     Think Before You Click. Detect Before You Trust.
 
 <p align="center">
   <img src="https://img.shields.io/badge/SCAMSHIELD-AI-0B1724?style=for-the-badge&logo=shield&logoColor=42E6A4" />
